@@ -48,7 +48,7 @@ if (condition) {
 **Using** `if...else`:
 ```javascript
     // If x=5 z=7 and q=42. If x is not 5 then z=19.
-    if (x == 5) {
+    if (x === 5) {
       z = 7;
       q = 42
     else
