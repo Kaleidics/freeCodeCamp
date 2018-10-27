@@ -42,6 +42,7 @@ When indexing over an array many times it is easy to exceed the bounds of the ar
 ```
 
 There are two ways to fix this code. Set the condition to either `i < arr.length` or `i <= arr.length - 1`
+Note: While iterating through an array using a for-loop, initialization should typically always start at 0, so as not to skip the first element at array[0].
 
 ### Examples
 
