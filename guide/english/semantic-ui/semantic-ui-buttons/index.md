@@ -19,11 +19,11 @@ Standard Semantic UI button
 ```
 Color Semantic UI button
 ```
-<button class="ui blue button">Standard Button</button>
+<button class="ui blue button">Blue Color Button</button>
 ```
 Inverted Color Semantic UI button
 ```
-<button class="ui blue inverted button">Standard Button</button>
+<button class="ui blue inverted button">Blue Inverted Color Button</button>
 ```
 * Emphasis Button
 
