@@ -100,6 +100,9 @@ Semantic UI buttons exist in variety of sizes, `mini`, `tiny`, `small`, `medium`
 ```
 <button class="ui massive button">Massive Button</button>
 ```
+```
+<button class="ui blue big inverted button">Big Blue Inverted Button</button>
+```
 
 There is a lot more about Semantic UI buttons, visit the provided link in More Information section to learn more.
 
