@@ -18,6 +18,7 @@ Here is the **syntax** for while loop:
 _statement(s):_ A statement that is executed as long as the condition evaluates to true.
 
 _condition:_ Here, condition is a Boolean expression which is evaluated before each pass through the loop. If this condition evaluates to true, statement(s) is/are executed. When condition evaluates to false, execution continues with the statement after the while loop.
+Note: If a condition never evaluates to true, execution continues infinitely which may result in a crash if created objects within the loop are not destroyed.
 
 ## Example:
 
