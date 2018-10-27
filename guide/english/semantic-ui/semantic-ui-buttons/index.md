@@ -17,6 +17,10 @@ Standard Semantic UI button
 ```
 <button class="ui button">Standard Button</button>
 ```
+Semantic UI buttons with color
+```
+<button class="ui violet button">Color Button</button>
+```
 * Emphasis Button
 
 A button with a different level of emphasis
