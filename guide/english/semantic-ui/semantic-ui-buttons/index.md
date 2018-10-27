@@ -17,6 +17,10 @@ Standard Semantic UI button
 ```
 <button class="ui button">Standard Button</button>
 ```
+Color Semantic UI button
+```
+<button class="ui blue button">Standard Button</button>
+```
 Inverted Color Semantic UI button
 ```
 <button class="ui blue inverted button">Standard Button</button>
